@@ -22,5 +22,5 @@ VALUES ('John', 'Doe', 1, NULL),
     ('James', 'Williams', 5, 2),
     ('Tim', 'Beran', 6, 3),
     ('Skylar', 'Owens', 7, 3),
-    ('Eddie', 'Scriven', 8, 2),
+    ('Eddie', 'Scriven', 8, 2)
     
